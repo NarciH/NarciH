@@ -1,33 +1,34 @@
 # Hi, I'm <Nombre Apellido> 👋
 
-**AI Engineer | Chatbots, RAG & AI Agents**
-I build production-ready LLM applications: chatbots that answer from your own documents (RAG), AI agents that automate business workflows, and ML models with MLOps on GCP, Azure and AWS.
+**AI Engineer & Python developer** from <Ciudad>, Colombia 🇨🇴 (UTC-5).
+I've been building machine-learning systems since 2019, from deep-learning research and teaching numerical methods with Python to production LLM applications: chatbots that answer from your own documents (RAG), AI agents that automate workflows, and ML models with MLOps on GCP, Azure and AWS.
 
-🟢 **Open to short freelance projects** (10-15 h/week) · 🌎 <Ciudad>, Colombia (UTC-5) · 🇪🇸 🇬🇧
+> 🇪🇸 Ingeniero de IA y desarrollador Python. Construyo sistemas de ML desde 2019: investigación, docencia universitaria y aplicaciones de LLM en producción.
 
-> 🇪🇸 Ingeniero de IA: chatbots, RAG y agentes de IA en producción. Disponible para proyectos freelance cortos.
+## 🧭 My path
+- **<año>–present** · <Cargo> at <empresa o "a company in a regulated industry"> — <1 línea de impacto: qué construiste y para quién>
+- **<año>–<año>** · <Cargo anterior> — <impacto>
+- **<año>** · MSc in <campo>, <universidad>: thesis on modal analysis of vehicle emissions ([repo](https://github.com/NarciH/<repo-tesis>))
+- **2020–2021** · Instructor, Python workshops for Numerical Methods, Universidad de Antioquia ([2020-1](https://github.com/NarciH/PyMed-2020-1) · [2021-1](https://github.com/NarciH/PyMed-2021-1))
+- **2019** · Deep learning & NLP projects: [RNN to detect cyber-trolls](https://github.com/NarciH/ProyectoU4)
+- **<año>** · <Pregrado>, <universidad>
 
-## 🛒 Featured projects — "Mercado Aurora", a fictional online store
+## 🚀 What I'm building now: AI for e-commerce
+A four-part portfolio around **Mercado Aurora**, a fictional online store:
 
-| Project | What it solves | Stack | Highlights |
-|---|---|---|---|
-| [**ecommerce-ia-rag**](https://github.com/NarciH/ecommerce-ia-rag) | Customer-service chatbot that answers questions about returns, shipping and warranties **with exact citations**, and says "I don't know" instead of inventing | Gemini · Vertex AI · FastAPI · Cloud Run | 42 policy docs · 90-question eval set · <faithfulness %> |
-| [**ecommerce-ia-agentes**](https://github.com/NarciH/ecommerce-ia-agentes) | AI agents that process a product return end-to-end, with **human approval** before any refund | Multi-agent · MCP tools · GCP | <tiempo medio por devolución> |
-| [**ecommerce-ia-extractor-llm**](https://github.com/NarciH/ecommerce-ia-extractor-llm) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | LoRA fine-tuning · Vertex AI | <F1 por campo> vs. base model |
-| [**ecommerce-ia-fraude-mlops**](https://github.com/NarciH/ecommerce-ia-fraude-mlops) | Detects payment and return fraud, **explains each decision**, and retrains automatically | ML · SHAP · Vertex AI Pipelines · monitoring | <AUC-PR> |
+| Project | What it does | Stack |
+|---|---|---|
+| [ecommerce-ia-rag](https://github.com/NarciH/ecommerce-ia-rag) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Vertex AI · FastAPI · Cloud Run |
+| [ecommerce-ia-agentes](https://github.com/NarciH/ecommerce-ia-agentes) | AI agents that process a return end-to-end, with **human approval** before any refund | Multi-agent · MCP · GCP |
+| [ecommerce-ia-extractor-llm](https://github.com/NarciH/ecommerce-ia-extractor-llm) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | LoRA · Vertex AI |
+| [ecommerce-ia-fraude-mlops](https://github.com/NarciH/ecommerce-ia-fraude-mlops) | Payment and return fraud detection that **explains each decision** and retrains itself | ML · SHAP · Vertex AI Pipelines |
 
-<!-- Descomentar solo cuando sea cierto: Each repo has a live demo, architecture diagram, tests/CI and one-command deploy with Terraform. -->
+## 🧰 Tech I use
+**AI/ML:** PyTorch, scikit-learn, transformers, LLMs (Gemini, OpenAI, open-source), RAG, AI agents, MCP, fine-tuning
+**Data & science:** Python, NumPy, pandas, Jupyter, numerical methods, NLP, time series
+**Cloud & MLOps:** Google Cloud (Vertex AI, Cloud Run, BigQuery), Azure, AWS, Docker, Terraform, GitHub Actions
+**Web/backend:** FastAPI, Flask/Dash, PostgreSQL / pgvector
 
-## 🧰 What I work with
-**LLMs & GenAI:** Gemini, OpenAI, open-source LLMs, RAG, AI agents, MCP, fine-tuning (LoRA), prompt evaluation
-**ML / DL:** scikit-learn, PyTorch, transformers, time series, NLP
-**Cloud & MLOps:** Google Cloud (Vertex AI, Cloud Run, BigQuery), Azure (AI Foundry, OpenAI), AWS (Bedrock, SageMaker), Docker, Terraform, GitHub Actions
-**Backend:** Python, FastAPI, PostgreSQL / pgvector
-
-## 🤝 How I can help
-- A chatbot for your website or WhatsApp that answers from your FAQs, policies or catalog
-- Automating document-heavy processes (invoices, forms, emails) with LLMs
-- Taking an AI prototype to production on your cloud
-
-## 📫 Contact
-[Upwork](<link>) · [LinkedIn](<link>) · <email>
+## 🤝 Work with me
+I take on short freelance projects: chatbots for websites or WhatsApp, document automation with LLMs, and taking AI prototypes to production.
+📫 [LinkedIn](<link>) · [Upwork](<link>) · <email>
