@@ -16,12 +16,14 @@ I've been building machine-learning systems since 2019, from deep-learning resea
 ## 🚀 What I'm building now: AI for e-commerce
 A four-part portfolio around **Mercado Aurora**, a fictional online store:
 
-| Project | What it does | Stack |
-|---|---|---|
-| [ecommerce-ia-rag](https://github.com/NarciH/ecommerce-ia-rag) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Vertex AI · FastAPI · Cloud Run |
-| [ecommerce-ia-agentes](https://github.com/NarciH/ecommerce-ia-agentes) | AI agents that process a return end-to-end, with **human approval** before any refund | Multi-agent · MCP · GCP |
-| [ecommerce-ia-extractor-llm](https://github.com/NarciH/ecommerce-ia-extractor-llm) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | LoRA · Vertex AI |
-| [ecommerce-ia-fraude-mlops](https://github.com/NarciH/ecommerce-ia-fraude-mlops) | Payment and return fraud detection that **explains each decision** and retrains itself | ML · SHAP · Vertex AI Pipelines |
+| Project | What it does | Stack | Try it |
+|---|---|---|---|
+| [Policy assistant (RAG)](cases/ecommerce-ia-rag.md) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Vertex AI · FastAPI · Cloud Run | [Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) |
+| Returns agents | AI agents that process a return end-to-end, with **human approval** before any refund | Multi-agent · MCP · GCP | Coming soon |
+| Document extractor | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | LoRA · Vertex AI | Coming soon |
+| Fraud detection with MLOps | Payment and return fraud detection that **explains each decision** and retrains itself | ML · SHAP · Vertex AI Pipelines | Coming soon |
+
+Each project page explains the problem, the design and the measured results. Source code is private; I'm happy to walk through it in a call.
 
 ## 🧰 Tech I use
 **AI/ML:** PyTorch, scikit-learn, transformers, LLMs (Gemini, OpenAI, open-source), RAG, AI agents, MCP, fine-tuning
