@@ -28,14 +28,14 @@ A four-part portfolio around **Mercado Aurora**, a fictional online store:
 | Project | What it does | Stack | Try it |
 |---|---|---|---|
 | [Policy assistant (RAG)](cases/ecommerce-ia-rag.md) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Vertex AI · FastAPI · Cloud Run | [Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) |
-| Returns agents | AI agents that process a return end-to-end, with **human approval** before any refund | Multi-agent · MCP · GCP | Coming soon |
-| Document extractor | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | LoRA · Vertex AI | Coming soon |
-| Fraud detection with MLOps | Payment and return fraud detection that **explains each decision** and retrains itself | ML · SHAP · Vertex AI Pipelines | Coming soon |
+| [Returns agents](cases/ecommerce-ia-agentes.md) | AI agents that process a return end-to-end, with **human approval** before any risky refund | Google ADK · Gemini · MCP · Firestore | Coming soon |
+| [Document extractor](cases/ecommerce-ia-extractor-llm.md) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | QLoRA · Qwen3 · llama.cpp · Gemini | In progress |
+| [Fraud detection with MLOps](cases/ecommerce-ia-fraude-mlops.md) | Payment and return fraud scores that **explain each decision**; expected fraud cost cut from 1,725 to 676 EUR per 1,000 payments on test data | XGBoost · SHAP · BigQuery · Cloud Run | Coming soon |
 
 Each project page explains the problem, the design and the measured results. Source code is private; I'm happy to walk through it in a call.
 
 ## 🧰 Toolbox
-**AI / ML:** multi-agent systems, RAG, GraphRAG, LLMs (GPT, Gemini), deep learning, NLP · LangChain, Semantic Kernel, Azure AI Agent Framework
+**AI / ML:** multi-agent systems, RAG, GraphRAG, LLMs (GPT, Gemini), fine-tuning (QLoRA), deep learning, NLP · Google ADK, MCP, LangChain, Semantic Kernel, Azure AI Agent Framework
 **Google Cloud:** Vertex AI, Vector Search, BigQuery, Document AI, Cloud Run, GKE, AlloyDB
 **Azure:** AI Foundry, Azure OpenAI, AI Search, Machine Learning, Databricks, Data Factory, Document Intelligence
 **Languages & data:** Python, R, SQL, C/C++, MATLAB · PostgreSQL, MongoDB · CI/CD, Vertex AI and Azure ML pipelines · UiPath, Power Platform
