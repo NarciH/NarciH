@@ -25,14 +25,14 @@ I've spent 9 years applying machine learning, deep learning and generative AI: f
 ## 🚀 Building now: AI for e-commerce
 A four-part portfolio around **Mercado Aurora**, a fictional online store:
 
-| Project | What it does | Stack | Try it |
+| Project | What it does | Built with | Try it |
 |---|---|---|---|
-| [Policy assistant (RAG)](cases/ecommerce-ia-rag.md) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Vertex AI · FastAPI · Cloud Run | [Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) |
-| [Returns agents](cases/ecommerce-ia-agentes.md) | AI agents that process a return end-to-end, with **human approval** before any risky refund | Google ADK · Gemini · MCP · Firestore | Coming soon |
-| [Document extractor](cases/ecommerce-ia-extractor-llm.md) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | QLoRA · Qwen3 · llama.cpp · Gemini | In progress |
-| [Fraud detection with MLOps](cases/ecommerce-ia-fraude-mlops.md) | Payment and return fraud scores that **explain each decision**; expected fraud cost cut from 1,725 to 676 EUR per 1,000 payments on test data | XGBoost · SHAP · BigQuery · Cloud Run | Coming soon |
+| [Policy assistant (RAG)](cases/ecommerce-ia-rag.md) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Google Cloud | [Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) |
+| [Returns agents](cases/ecommerce-ia-agentes.md) | AI agents that process a return end-to-end, with **human approval** before any risky refund | Google ADK · Gemini | Coming soon |
+| [Document extractor](cases/ecommerce-ia-extractor-llm.md) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | Fine-tuned open LLM (QLoRA) · Gemini | In progress |
+| [Fraud detection with MLOps](cases/ecommerce-ia-fraude-mlops.md) | Payment and return fraud scores that **explain each decision**; expected fraud cost cut from 1,725 to 676 EUR per 1,000 payments on test data | Gradient boosting · explainable AI | Coming soon |
 
-Each project page explains the problem, the design and the measured results. Source code is private; I'm happy to walk through it in a call.
+Each project page explains the problem, what the solution does and the measured results. Source code is private; I'm happy to show any of them working in a call.
 
 ## 🧰 Toolbox
 **AI / ML:** multi-agent systems, RAG, GraphRAG, LLMs (GPT, Gemini), fine-tuning (QLoRA), deep learning, NLP · Google ADK, MCP, LangChain, Semantic Kernel, Azure AI Agent Framework
