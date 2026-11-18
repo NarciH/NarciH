@@ -15,6 +15,7 @@
   <a href="https://linkedin.com/in/odavidhg"><img src="https://img.shields.io/badge/LinkedIn-odavidhg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://ecrag-frontend-4y6shrzafa-uc.a.run.app"><img src="https://img.shields.io/badge/▶_Live_demo-RAG_assistant-06b6d4?style=flat-square" alt="Live demo" /></a>
   <img src="https://img.shields.io/badge/Peer--reviewed_papers-3-f59e0b?style=flat-square" alt="3 peer-reviewed papers" />
+  <img src="https://komarev.com/ghpvc/?username=NarciH&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -22,6 +23,12 @@
 I've spent **9 years** applying machine learning, deep learning and generative AI: first as a researcher modeling vehicle emissions, then building production systems for insurance, finance and retail. Today I design **multi-agent systems, RAG pipelines and LLM-powered automation** on Google Cloud and Azure.
 
 > 🇪🇸 Ingeniero de IA con 9 años en ML, deep learning e IA generativa. Diseño sistemas multiagente, RAG y automatización con LLMs en GCP y Azure.
+
+- 🔭 **Building now:** an AI suite for e-commerce: cited-answer RAG, returns agents, document extraction and fraud detection ([see below](#-building-now-ai-for-e-commerce))
+- 🧑‍🏫 **Teaching:** applied AI and process automation with generative AI at ESUMER
+- 🌱 **Exploring:** agent evaluation, voice agents and computer vision for retail
+- 💬 **Ask me about:** RAG that doesn't hallucinate, multi-agent design, taking AI prototypes to production
+- ⚡ **Fun fact:** before LLMs, I trained models to predict what comes out of a truck's exhaust pipe
 
 <table>
   <tr>
@@ -85,27 +92,42 @@ Each project page explains the problem, what the solution does and the measured 
 
 ## 🧰 Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,gcp,azure,aws,docker,kubernetes,fastapi,postgres,mongodb,r,matlab,cpp,git,github,githubactions,linux,vscode&perline=10" alt="Python, PyTorch, TensorFlow, scikit-learn, Google Cloud, Azure, AWS, Docker, Kubernetes, FastAPI, PostgreSQL, MongoDB, R, MATLAB, C++, Git, GitHub, GitHub Actions, Linux, VS Code" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI" />
   <img src="https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" alt="UiPath" />
 </p>
+
+<details>
+<summary><b>Full list</b></summary>
 
 **AI / ML:** multi-agent systems, RAG, GraphRAG, LLMs (GPT, Gemini), fine-tuning (QLoRA), deep learning, NLP · Google ADK, MCP, LangChain, Semantic Kernel, Azure AI Agent Framework
 **Google Cloud:** Vertex AI, Vector Search, BigQuery, Document AI, Cloud Run, GKE, AlloyDB
 **Azure:** AI Foundry, Azure OpenAI, AI Search, Machine Learning, Databricks, Data Factory, Document Intelligence
 **Languages & data:** Python, R, SQL, C/C++, MATLAB · PostgreSQL, MongoDB · CI/CD, Vertex AI and Azure ML pipelines · UiPath, Power Platform
+
+</details>
+
+## 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NarciH&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NarciH/NarciH/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NarciH/NarciH/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution graph eaten by a snake" src="https://raw.githubusercontent.com/NarciH/NarciH/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🤝 Let's work together
 I take on short freelance projects: chatbots and RAG over your documents, AI agents that automate workflows, and taking AI prototypes to production.
