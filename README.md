@@ -24,27 +24,18 @@ I've spent **9 years** applying machine learning, deep learning and generative A
 
 > 🇪🇸 Ingeniero de IA con 9 años en ML, deep learning e IA generativa. Diseño sistemas multiagente, RAG y automatización con LLMs en GCP y Azure.
 
-- 🔭 **Building now:** an AI suite for e-commerce: cited-answer RAG, returns agents, document extraction and fraud detection ([see below](#-building-now-ai-for-e-commerce))
+- 🔭 **Building now:** an AI suite for e-commerce: cited-answer RAG, returns agents, document extraction and fraud detection ([see below](#-portfolio-ai-for-e-commerce))
 - 🧑‍🏫 **Teaching:** applied AI and process automation with generative AI at ESUMER
 - 🌱 **Exploring:** agent evaluation, voice agents and computer vision for retail
 - 💬 **Ask me about:** RAG that doesn't hallucinate, multi-agent design, taking AI prototypes to production
 - ⚡ **Fun fact:** before LLMs, I trained models to predict what comes out of a truck's exhaust pipe
-
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>53%</h2><sub>of health-policy management automated with multi-agent systems</sub></td>
-    <td align="center" width="25%"><h2>-40%</h2><sub>physician time on AI-assisted medical opinions (GraphRAG)</sub></td>
-    <td align="center" width="25%"><h2>~60%</h2><sub>of monthly requests moved to AI-assisted handling (NLP + RPA)</sub></td>
-    <td align="center" width="25%"><h2>-61%</h2><sub>expected fraud cost per 1,000 payments in my fraud-detection demo</sub></td>
-  </tr>
-</table>
 
 ## 🧭 Journey at a glance
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"cScale0": "#1e3a8a", "cScaleLabel0": "#ffffff", "cScale1": "#0e7490", "cScaleLabel1": "#ffffff", "cScale2": "#16a34a", "cScaleLabel2": "#ffffff", "cScale3": "#f59e0b", "cScaleLabel3": "#0f172a"}}}%%
 timeline
-    title Oscar David Hincapié · from research to production AI
+    title Oscar David Hincapié · career timeline
     section Universidad de Antioquia
         2013 – 2018 : B.Eng. Mechanical Engineering (honors)
         2019 : Deep learning projects : RNN to detect cyber-trolls
@@ -57,28 +48,33 @@ timeline
     section Teaching at ESUMER
         2024 : AI Bootcamp : challenges for 5+ teams
         2026 : IA20 course : Applied AI & process automation with GenAI
-    section Freelance
-        2026 – now : AI for e-commerce : RAG, agents, LLM extraction, fraud MLOps
 ```
 
-## 🗂️ Repository traceability: where each piece of work comes from
+## 🗂️ My career, moment by moment
 
-Every stage of my career, the organization behind it and the public work you can open. Client and employer code is private, so those stages show results instead of links.
+Four moments, each with its own question. Public repositories are linked; work done for employers and clients stays private.
 
-| When | Organization · role | What I built | Public work | Tech |
-|:---:|---|---|---|---|
-| **2026 – now** | **Freelance** · AI Engineer | Four-part AI suite for *Mercado Aurora*, a fictional online store: cited-answer RAG, returns agents, document extraction, fraud detection | [Case studies](#-building-now-ai-for-e-commerce) · [▶ Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) | ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![ADK](https://img.shields.io/badge/Google_ADK-34A853?style=flat-square) |
-| **2026** | **ESUMER** · Instructor, IA20 | 15-week course on applied AI and process automation with generative AI: ML, LLMs, RAG, agents, n8n, spec-driven development, 7 applied projects | Course material (private, students' work) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
-| **2022 – 2026** | **AI Laboratory, top-5 Latin American insurer** · Digital Automation Specialist | Multi-agent systems that automated **53%** of health-policy management · GraphRAG and multimodal RAG (**-40%** physician time) · voice-to-voice RAG assistant · monitoring of 10+ automations · AI governance adopted by 10+ teams | Private (employer) | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-5C2D91?style=flat-square) ![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **2024** | **ESUMER** · AI Bootcamp | Designed the bootcamp challenge (tweet classification with RNN/LSTM) and the common template for 5+ teams solving real company problems | [reto-esumer](https://github.com/NarciH/reto-esumer) · [template-reto-tecnico-estudIA](https://github.com/NarciH/template-reto-tecnico-estudIA) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **2021 – 2022** | **Personalsoft** · Senior Software Developer, AI & Data | ML/DL for investment-risk inference · transformer NLP + RPA that moved **~60%** of monthly requests to AI-assisted handling | Private (client) | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) |
-| **2020 – 2021** | **Fourier Analytics** · Data Scientist | Demand and inventory forecasting for a major apparel brand | Private (client) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) |
-| **2020 – 2021** | **Universidad de Antioquia** · Python instructor | Structured programming and numerical methods workshops for engineering students | [PyMed-2020-1](https://github.com/NarciH/PyMed-2020-1) · [PyMed-2021-1](https://github.com/NarciH/PyMed-2021-1) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **2019 – 2024** | **Universidad de Antioquia, GIMEL group** · M.Sc. researcher | Machine-learning models to predict pollutant emissions from heavy-duty vehicles · 3 peer-reviewed papers, including *Environmental Pollution* (2020) | [Thesis manuscript](https://github.com/NarciH/memory_work_master) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square) |
-| **2019** | **Universidad de Antioquia** · Deep learning coursework | Deep learning project and an RNN that detects cyber-trolls | [ProyectoU3](https://github.com/NarciH/ProyectoU3) · [ProyectoU4](https://github.com/NarciH/ProyectoU4) | ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) |
-| **2013 – 2018** | **Universidad de Antioquia** · B.Eng. Mechanical Engineering | Graduated with honors | | |
+### 🎓 Moment 1 · Foundations (2013 – 2019)
+**How does a mechanical engineer end up in AI?** I studied Mechanical Engineering at Universidad de Antioquia (graduated with honors), where engines, sensors and noisy measurements taught me to respect data. In 2019 I took my first deep learning courses and built my first neural networks, including an RNN that detects cyber-trolls in tweets.
 
-## 🚀 Building now: AI for e-commerce
+📂 [ProyectoU3](https://github.com/NarciH/ProyectoU3) · [ProyectoU4](https://github.com/NarciH/ProyectoU4) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+### 🔬 Moment 2 · Research (2019 – 2024)
+**Can machine learning predict what comes out of a truck's exhaust?** My M.Sc. at Universidad de Antioquia (GIMEL group) answered that with ML models trained on real driving data from heavy-duty vehicles. The work produced a thesis and 3 peer-reviewed papers, including one in *Environmental Pollution* (2020).
+
+📂 [Thesis manuscript](https://github.com/NarciH/memory_work_master) &nbsp; ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+### 🧑‍🏫 Moment 3 · Teaching (2020 – today)
+**How do you make AI click for people who are just starting?** I've taught Python and numerical methods to engineering students at Universidad de Antioquia, designed the challenges of ESUMER's AI Bootcamp, and in 2026 I teach IA20, a 15-week course on applied AI and process automation with generative AI.
+
+📂 [PyMed-2020-1](https://github.com/NarciH/PyMed-2020-1) · [PyMed-2021-1](https://github.com/NarciH/PyMed-2021-1) · [reto-esumer](https://github.com/NarciH/reto-esumer) · [template-reto-tecnico-estudIA](https://github.com/NarciH/template-reto-tecnico-estudIA) &nbsp; ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### 🏢 Moment 4 · AI in production (2020 – 2026)
+**What does it take for AI to work inside a real company?** Six years building AI for retail, finance and insurance: demand forecasting at Fourier Analytics, NLP and risk models at Personalsoft, and multi-agent systems, RAG and voice assistants at the AI Laboratory of a large Latin American insurer. That's where I learned that monitoring, governance and the people who use the system matter as much as the model.
+
+🔒 Private work for employers and clients &nbsp; ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+## 🚀 Portfolio: AI for e-commerce
 A four-part portfolio around **Mercado Aurora**, a fictional online store:
 
 | Project | What it does | Built with | Try it |
@@ -89,6 +85,17 @@ A four-part portfolio around **Mercado Aurora**, a fictional online store:
 | [Fraud detection with MLOps](cases/ecommerce-ia-fraude-mlops.md) | Payment and return fraud scores that **explain each decision**; expected fraud cost cut from 1,725 to 676 EUR per 1,000 payments on test data | Gradient boosting · explainable AI | Coming soon |
 
 Each project page explains the problem, what the solution does and the measured results. Source code is private; I'm happy to show any of them working in a call.
+
+<p align="center"><sub><b>Fraud detection demo, measured on test data</b> (<a href="cases/ecommerce-ia-fraude-mlops.md">details</a>)</sub></p>
+
+<table>
+  <tr>
+    <td align="center" width="25%"><h2>64%</h2><sub>of payment fraud caught while sending only 1.7% of payments to review</sub></td>
+    <td align="center" width="25%"><h2>-61%</h2><sub>expected fraud cost per 1,000 payments</sub></td>
+    <td align="center" width="25%"><h2>88%</h2><sub>of return abuse caught</sub></td>
+    <td align="center" width="25%"><h2>-73%</h2><sub>expected cost per 1,000 returns</sub></td>
+  </tr>
+</table>
 
 ## 🧰 Toolbox
 
