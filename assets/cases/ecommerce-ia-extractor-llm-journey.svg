@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 270" width="960" height="270" role="img" aria-label="A messy email or invoice arrives, a small trained model reads it, returns a validated record, and leaves missing fields empty.">
+<style>
+  .bg{fill:#F6FAFA} .card{fill:#FFFFFF;stroke:#D5E3E5} .kick{fill:#557079} .ttl{fill:#071A20}
+  .cap{fill:#3C5A62} .num{fill:#0B4A57} .ico{stroke:#0B4A57} .ring{fill:#E4F0F1} .lnk{stroke:#2FB3B8}
+  .tri{fill:#2FB3B8} .hl{stroke:#2FB3B8;fill:none}
+  @media (prefers-color-scheme: dark){
+   .bg{fill:#071A20} .card{fill:#0D2A31;stroke:#1E3E47} .kick{fill:#8FB0B6} .ttl{fill:#E4F0F1}
+   .cap{fill:#B5CDD1} .num{fill:#2FB3B8} .ico{stroke:#2FB3B8} .ring{fill:#123740} }
+  text{font-family:'Space Grotesk','Inter','Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:'JetBrains Mono',Menlo,Consolas,monospace;letter-spacing:.12em}
+  .lnk{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-12}}
+  .hl{opacity:0;animation:pulse 8.8s ease-in-out infinite}
+  @keyframes pulse{0%{opacity:0}4%{opacity:1}21.0%{opacity:1}25.0%{opacity:0}100%{opacity:0}}
+  .ico-g{transform-box:fill-box;transform-origin:center;animation:pop 8.8s ease-in-out infinite}
+  @keyframes pop{0%{transform:scale(1)}3%{transform:scale(1.15)}8%{transform:scale(1)}100%{transform:scale(1)}}
+  @media (prefers-reduced-motion: reduce){.lnk,.hl,.ico-g{animation:none} .hl{opacity:0}}
+</style>
+<rect class="bg" width="960" height="270" rx="16"/>
+<text class="kick mono" x="26" y="38" font-size="12" font-weight="600">FROM MESSY TEXT TO CLEAN DATA</text>
+<path class="tri" d="M914 26h16l-8 12z"/>
+<rect class="card" x="26" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="23" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:0.0s"/>
+<circle class="ring" cx="66" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:0.0s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(54 96)"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 6-10 7L2 6"/></g></g>
+<text class="num mono" x="204" y="98" font-size="13" font-weight="700" text-anchor="end">01</text>
+<text class="ttl" x="44" y="162" font-size="16" font-weight="700">A messy email</text>
+<text class="cap" x="44" y="188" font-size="13.5">"The trainers from last</text>
+<text class="cap" x="44" y="207" font-size="13.5">Monday are too small..."</text>
+<path class="lnk" d="M226 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M254 102l8 6-8 6z"/>
+<rect class="card" x="262" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="259" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:2.2s"/>
+<circle class="ring" cx="302" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:2.2s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(290 96)"><path d="M12 3v4M12 17v4M3 12h4M17 12h4M6 6l2.5 2.5M15.5 15.5 18 18M6 18l2.5-2.5M15.5 8.5 18 6"/></g></g>
+<text class="num mono" x="440" y="98" font-size="13" font-weight="700" text-anchor="end">02</text>
+<text class="ttl" x="280" y="162" font-size="16" font-weight="700">A small model reads</text>
+<text class="cap" x="280" y="188" font-size="13.5">Trained for this job,</text>
+<text class="cap" x="280" y="207" font-size="13.5">runs on your server</text>
+<path class="lnk" d="M462 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M490 102l8 6-8 6z"/>
+<rect class="card" x="498" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="495" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:4.4s"/>
+<circle class="ring" cx="538" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:4.4s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(526 96)"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 9h18M3 15h18M9 3v18"/></g></g>
+<text class="num mono" x="676" y="98" font-size="13" font-weight="700" text-anchor="end">03</text>
+<text class="ttl" x="516" y="162" font-size="16" font-weight="700">A clean record</text>
+<text class="cap" x="516" y="188" font-size="13.5">Order, dates, amounts,</text>
+<text class="cap" x="516" y="207" font-size="13.5">reason, urgency</text>
+<path class="lnk" d="M698 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M726 102l8 6-8 6z"/>
+<rect class="card" x="734" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="731" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:6.6000000000000005s"/>
+<circle class="ring" cx="774" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:6.6000000000000005s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(762 96)"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></g></g>
+<text class="num mono" x="912" y="98" font-size="13" font-weight="700" text-anchor="end">04</text>
+<text class="ttl" x="752" y="162" font-size="16" font-weight="700">Never invents</text>
+<text class="cap" x="752" y="188" font-size="13.5">Missing data stays</text>
+<text class="cap" x="752" y="207" font-size="13.5">empty; always valid</text>
+</svg>
