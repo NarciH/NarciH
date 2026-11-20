@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 270" width="960" height="270" role="img" aria-label="A customer asks, the assistant reads the store policies, answers with a numbered citation, and says it doesn't know when the policies are silent.">
+<style>
+  .bg{fill:#F6FAFA} .card{fill:#FFFFFF;stroke:#D5E3E5} .kick{fill:#557079} .ttl{fill:#071A20}
+  .cap{fill:#3C5A62} .num{fill:#0B4A57} .ico{stroke:#0B4A57} .ring{fill:#E4F0F1} .lnk{stroke:#2FB3B8}
+  .tri{fill:#2FB3B8} .hl{stroke:#2FB3B8;fill:none}
+  @media (prefers-color-scheme: dark){
+   .bg{fill:#071A20} .card{fill:#0D2A31;stroke:#1E3E47} .kick{fill:#8FB0B6} .ttl{fill:#E4F0F1}
+   .cap{fill:#B5CDD1} .num{fill:#2FB3B8} .ico{stroke:#2FB3B8} .ring{fill:#123740} }
+  text{font-family:'Space Grotesk','Inter','Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:'JetBrains Mono',Menlo,Consolas,monospace;letter-spacing:.12em}
+  .lnk{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-12}}
+  .hl{opacity:0;animation:pulse 8.8s ease-in-out infinite}
+  @keyframes pulse{0%{opacity:0}4%{opacity:1}21.0%{opacity:1}25.0%{opacity:0}100%{opacity:0}}
+  .ico-g{transform-box:fill-box;transform-origin:center;animation:pop 8.8s ease-in-out infinite}
+  @keyframes pop{0%{transform:scale(1)}3%{transform:scale(1.15)}8%{transform:scale(1)}100%{transform:scale(1)}}
+  @media (prefers-reduced-motion: reduce){.lnk,.hl,.ico-g{animation:none} .hl{opacity:0}}
+</style>
+<rect class="bg" width="960" height="270" rx="16"/>
+<text class="kick mono" x="26" y="38" font-size="12" font-weight="600">WHAT A CUSTOMER SEES</text>
+<path class="tri" d="M914 26h16l-8 12z"/>
+<rect class="card" x="26" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="23" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:0.0s"/>
+<circle class="ring" cx="66" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:0.0s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(54 96)"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></g></g>
+<text class="num mono" x="204" y="98" font-size="13" font-weight="700" text-anchor="end">01</text>
+<text class="ttl" x="44" y="162" font-size="16" font-weight="700">Ask in plain words</text>
+<text class="cap" x="44" y="188" font-size="13.5">"Can I return headphones</text>
+<text class="cap" x="44" y="207" font-size="13.5">I already opened?"</text>
+<path class="lnk" d="M226 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M254 102l8 6-8 6z"/>
+<rect class="card" x="262" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="259" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:2.2s"/>
+<circle class="ring" cx="302" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:2.2s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(290 96)"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></g></g>
+<text class="num mono" x="440" y="98" font-size="13" font-weight="700" text-anchor="end">02</text>
+<text class="ttl" x="280" y="162" font-size="16" font-weight="700">Reads your policies</text>
+<text class="cap" x="280" y="188" font-size="13.5">Only the store's own</text>
+<text class="cap" x="280" y="207" font-size="13.5">documents, nothing else</text>
+<path class="lnk" d="M462 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M490 102l8 6-8 6z"/>
+<rect class="card" x="498" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="495" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:4.4s"/>
+<circle class="ring" cx="538" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:4.4s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(526 96)"><path d="M7 7h4v5c0 3-2 5-4 5M14 7h4v5c0 3-2 5-4 5"/></g></g>
+<text class="num mono" x="676" y="98" font-size="13" font-weight="700" text-anchor="end">03</text>
+<text class="ttl" x="516" y="162" font-size="16" font-weight="700">Cites the clause</text>
+<text class="cap" x="516" y="188" font-size="13.5">Document, section and</text>
+<text class="cap" x="516" y="207" font-size="13.5">clause, one click away</text>
+<path class="lnk" d="M698 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M726 102l8 6-8 6z"/>
+<rect class="card" x="734" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="731" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:6.6000000000000005s"/>
+<circle class="ring" cx="774" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:6.6000000000000005s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(762 96)"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></g></g>
+<text class="num mono" x="912" y="98" font-size="13" font-weight="700" text-anchor="end">04</text>
+<text class="ttl" x="752" y="162" font-size="16" font-weight="700">Or admits it</text>
+<text class="cap" x="752" y="188" font-size="13.5">"I can't find this in the</text>
+<text class="cap" x="752" y="207" font-size="13.5">store policies"</text>
+</svg>

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 270" width="960" height="270" role="img" aria-label="Store cameras, faces blurred, people counted and timed per zone, and a manager asks questions in plain language.">
+<style>
+  .bg{fill:#F6FAFA} .card{fill:#FFFFFF;stroke:#D5E3E5} .kick{fill:#557079} .ttl{fill:#071A20}
+  .cap{fill:#3C5A62} .num{fill:#0B4A57} .ico{stroke:#0B4A57} .ring{fill:#E4F0F1} .lnk{stroke:#2FB3B8}
+  .tri{fill:#2FB3B8} .hl{stroke:#2FB3B8;fill:none}
+  @media (prefers-color-scheme: dark){
+   .bg{fill:#071A20} .card{fill:#0D2A31;stroke:#1E3E47} .kick{fill:#8FB0B6} .ttl{fill:#E4F0F1}
+   .cap{fill:#B5CDD1} .num{fill:#2FB3B8} .ico{stroke:#2FB3B8} .ring{fill:#123740} }
+  text{font-family:'Space Grotesk','Inter','Segoe UI',Helvetica,Arial,sans-serif}
+  .mono{font-family:'JetBrains Mono',Menlo,Consolas,monospace;letter-spacing:.12em}
+  .lnk{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+  @keyframes flow{to{stroke-dashoffset:-12}}
+  .hl{opacity:0;animation:pulse 8.8s ease-in-out infinite}
+  @keyframes pulse{0%{opacity:0}4%{opacity:1}21.0%{opacity:1}25.0%{opacity:0}100%{opacity:0}}
+  .ico-g{transform-box:fill-box;transform-origin:center;animation:pop 8.8s ease-in-out infinite}
+  @keyframes pop{0%{transform:scale(1)}3%{transform:scale(1.15)}8%{transform:scale(1)}100%{transform:scale(1)}}
+  @media (prefers-reduced-motion: reduce){.lnk,.hl,.ico-g{animation:none} .hl{opacity:0}}
+</style>
+<rect class="bg" width="960" height="270" rx="16"/>
+<text class="kick mono" x="26" y="38" font-size="12" font-weight="600">FROM CAMERAS TO ANSWERS</text>
+<path class="tri" d="M914 26h16l-8 12z"/>
+<rect class="card" x="26" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="23" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:0.0s"/>
+<circle class="ring" cx="66" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:0.0s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(54 96)"><path d="M23 7l-7 5 7 5z"/><rect x="1" y="5" width="15" height="14" rx="2"/></g></g>
+<text class="num mono" x="204" y="98" font-size="13" font-weight="700" text-anchor="end">01</text>
+<text class="ttl" x="44" y="162" font-size="16" font-weight="700">Cameras you have</text>
+<text class="cap" x="44" y="188" font-size="13.5">Ordinary store video,</text>
+<text class="cap" x="44" y="207" font-size="13.5">no new hardware</text>
+<path class="lnk" d="M226 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M254 102l8 6-8 6z"/>
+<rect class="card" x="262" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="259" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:2.2s"/>
+<circle class="ring" cx="302" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:2.2s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(290 96)"><path d="M17.9 17.9A10 10 0 0 1 12 20C5 20 1 12 1 12a18 18 0 0 1 5.1-5.9M9.9 4.2A9 9 0 0 1 12 4c7 0 11 8 11 8a18 18 0 0 1-2.2 3.2M1 1l22 22"/></g></g>
+<text class="num mono" x="440" y="98" font-size="13" font-weight="700" text-anchor="end">02</text>
+<text class="ttl" x="280" y="162" font-size="16" font-weight="700">Faces blurred</text>
+<text class="cap" x="280" y="188" font-size="13.5">No age, gender or</text>
+<text class="cap" x="280" y="207" font-size="13.5">identity, ever</text>
+<path class="lnk" d="M462 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M490 102l8 6-8 6z"/>
+<rect class="card" x="498" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="495" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:4.4s"/>
+<circle class="ring" cx="538" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:4.4s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(526 96)"><circle cx="9" cy="8" r="4"/><path d="M1 21a8 8 0 0 1 16 0M17 4a4 4 0 0 1 0 8M23 21a8 8 0 0 0-5-7.4"/></g></g>
+<text class="num mono" x="676" y="98" font-size="13" font-weight="700" text-anchor="end">03</text>
+<text class="ttl" x="516" y="162" font-size="16" font-weight="700">Counts and times</text>
+<text class="cap" x="516" y="188" font-size="13.5">Entries, exits, minutes</text>
+<text class="cap" x="516" y="207" font-size="13.5">per zone, queue alerts</text>
+<path class="lnk" d="M698 108h28" stroke-width="2.5" fill="none"/>
+<path class="tri" d="M726 102l8 6-8 6z"/>
+<rect class="card" x="734" y="66" width="196" height="178" rx="14" stroke-width="1.5"/>
+<rect class="hl" x="731" y="63" width="202" height="184" rx="16" stroke-width="3" style="animation-delay:6.6000000000000005s"/>
+<circle class="ring" cx="774" cy="108" r="24"/>
+<g class="ico-g" style="animation-delay:6.6000000000000005s"><g class="ico" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(762 96)"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></g></g>
+<text class="num mono" x="912" y="98" font-size="13" font-weight="700" text-anchor="end">04</text>
+<text class="ttl" x="752" y="162" font-size="16" font-weight="700">Ask about the day</text>
+<text class="cap" x="752" y="188" font-size="13.5">"When was the longest</text>
+<text class="cap" x="752" y="207" font-size="13.5">checkout line?"</text>
+</svg>
