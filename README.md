@@ -92,7 +92,7 @@ AI products for **Mercado Aurora**, a fictional online store with synthetic data
 | 🟡 | [**Document extractor**](cases/ecommerce-ia-extractor-llm.md) | A small model trained for the job turns emails and invoices into **clean, validated data** | Training now |
 | 🟡 | **Voice assistant** | Customers ask about orders and policies **by voice**, with the same cited answers | In construction |
 
-🛡️ **Coming next:** a second suite for **insurance** (policy assistant, claims fraud and claims agents) is being deployed.
+🛡️ **Also available on request:** a second suite for **insurance** (policy assistant, claims fraud detection and claims agents). Because insurance data is sensitive, it isn't public: [get in touch](https://linkedin.com/in/odavidhg) and I'll walk you through it in a private session.
 
 <p align="center"><sub><b>Fraud detection demo, measured on test data</b> (<a href="cases/ecommerce-ia-fraude-mlops.md">details</a>)</sub></p>
 
