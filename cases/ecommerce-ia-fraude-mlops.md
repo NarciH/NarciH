@@ -1,6 +1,6 @@
 # Fraud and return-abuse detection that explains every decision
 
-**Live demo: coming soon.**
+**[▶ Try the live demo](https://ecfraud-api-4y6shrzafa-uc.a.run.app)** · the first request after a quiet period can take up to ~30 s while the service wakes up.
 
 ## The problem
 
