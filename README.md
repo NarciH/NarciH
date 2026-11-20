@@ -1,21 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=200&section=header&text=Oscar%20David%20Hincapi%C3%A9&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Multi-agent%20systems%20%C2%B7%20RAG%20%C2%B7%20LLM%20automation&descAlignY=58&descSize=17" alt="Oscar David Hincapié, AI Engineer" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/brand/logo-horizontal-dark.svg" />
+  <img src="assets/brand/logo-horizontal.svg" alt="David Hincapié, AI Engineer" width="420" />
+</picture>
 
-<a href="https://github.com/NarciH"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=640&lines=9+years+turning+ML+%26+GenAI+into+production;Multi-agent+systems+that+automate+real+work;RAG+assistants+that+cite+their+sources;Open+to+short+freelance+AI+projects" alt="9 years turning ML and GenAI into production" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A20,55:0B4A57,100:2FB3B8&height=150&section=header&text=AI%20that%20cites%2C%20explains%20and%20asks%20before%20it%20acts&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=Multi-agent%20systems%20%C2%B7%20RAG%20%C2%B7%20Computer%20vision%20%C2%B7%20MLOps&descAlignY=66&descSize=16" alt="AI that cites, explains and asks before it acts" width="100%" />
+
+<a href="https://github.com/NarciH"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=E2553A&center=true&vCenter=true&width=640&lines=9+years+turning+ML+%26+GenAI+into+production;4+live+AI+demos+you+can+try+today;RAG+assistants+that+cite+their+sources;Open+to+short+freelance+AI+projects" alt="9 years turning ML and GenAI into production" /></a>
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Medellín,_Colombia-UTC--5-0f172a?style=for-the-badge" alt="Medellín, Colombia" />
-  <img src="https://img.shields.io/badge/Remote-Worldwide-1e3a8a?style=for-the-badge" alt="Remote" />
-  <img src="https://img.shields.io/badge/🇪🇸_Native-🇬🇧_B2-0e7490?style=for-the-badge" alt="Spanish native, English B2" />
-  <img src="https://img.shields.io/badge/Open_to-Freelance-16a34a?style=for-the-badge" alt="Open to freelance" />
+  <img src="https://img.shields.io/badge/📍_Medellín,_Colombia-UTC--5-071A20?style=for-the-badge" alt="Medellín, Colombia" />
+  <img src="https://img.shields.io/badge/Remote-Worldwide-0B4A57?style=for-the-badge" alt="Remote" />
+  <img src="https://img.shields.io/badge/🇪🇸_Native-🇬🇧_B2-2FB3B8?style=for-the-badge" alt="Spanish native, English B2" />
+  <img src="https://img.shields.io/badge/Open_to-Freelance-E2553A?style=for-the-badge" alt="Open to freelance" />
 </p>
 
 <p>
   <a href="https://linkedin.com/in/odavidhg"><img src="https://img.shields.io/badge/LinkedIn-odavidhg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://ecrag-frontend-4y6shrzafa-uc.a.run.app"><img src="https://img.shields.io/badge/▶_Live_demo-RAG_assistant-06b6d4?style=flat-square" alt="Live demo" /></a>
-  <img src="https://img.shields.io/badge/Peer--reviewed_papers-3-f59e0b?style=flat-square" alt="3 peer-reviewed papers" />
-  <img src="https://komarev.com/ghpvc/?username=NarciH&label=Profile%20views&color=0e7490&style=flat-square" alt="Profile views" />
+  <a href="#-portfolio-ai-for-e-commerce"><img src="https://img.shields.io/badge/▶_Live_demos-4-E2553A?style=flat-square" alt="4 live demos" /></a>
+  <img src="https://img.shields.io/badge/Peer--reviewed_papers-3-0B4A57?style=flat-square" alt="3 peer-reviewed papers" />
+  <img src="https://komarev.com/ghpvc/?username=NarciH&label=Profile%20views&color=2FB3B8&style=flat-square" alt="Profile views" />
 </p>
 
 </div>
@@ -24,18 +29,18 @@ I've spent **9 years** applying machine learning, deep learning and generative A
 
 > 🇪🇸 Ingeniero de IA con 9 años en ML, deep learning e IA generativa. Diseño sistemas multiagente, RAG y automatización con LLMs en GCP y Azure.
 
-- 🔭 **Building now:** an AI suite for e-commerce: cited-answer RAG, returns agents, document extraction and fraud detection ([see below](#-portfolio-ai-for-e-commerce))
+- 🔭 **Building now:** an AI suite for e-commerce with **4 live demos** (cited-answer RAG, fraud detection, returns agents and in-store video analytics), plus a voice assistant on the way ([see below](#-portfolio-ai-for-e-commerce))
 - 🧑‍🏫 **Teaching:** applied AI and process automation with generative AI at ESUMER
-- 🌱 **Exploring:** agent evaluation, voice agents and computer vision for retail
+- 🌱 **Exploring:** agent evaluation and real-time voice agents
 - 💬 **Ask me about:** RAG that doesn't hallucinate, multi-agent design, taking AI prototypes to production
 - ⚡ **Fun fact:** before LLMs, I trained models to predict what comes out of a truck's exhaust pipe
 
 ## 🧭 Journey at a glance
 
 ```mermaid
-%%{init: {"theme": "base", "themeVariables": {"cScale0": "#1e3a8a", "cScaleLabel0": "#ffffff", "cScale1": "#0e7490", "cScaleLabel1": "#ffffff", "cScale2": "#16a34a", "cScaleLabel2": "#ffffff", "cScale3": "#f59e0b", "cScaleLabel3": "#0f172a"}}}%%
+%%{init: {"theme": "base", "themeVariables": {"cScale0": "#0B4A57", "cScaleLabel0": "#ffffff", "cScale1": "#2FB3B8", "cScaleLabel1": "#071A20", "cScale2": "#E2553A", "cScaleLabel2": "#ffffff", "cScale3": "#557079", "cScaleLabel3": "#ffffff"}}}%%
 timeline
-    title Oscar David Hincapié · career timeline
+    title David Hincapié · career timeline
     section Universidad de Antioquia
         2013 – 2018 : B.Eng. Mechanical Engineering (honors)
         2019 : Deep learning projects : RNN to detect cyber-trolls
@@ -75,16 +80,19 @@ Four moments, each with its own question. Public repositories are linked; work d
 🔒 Private work for employers and clients &nbsp; ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ## 🚀 Portfolio: AI for e-commerce
-A four-part portfolio around **Mercado Aurora**, a fictional online store:
 
-| Project | What it does | Built with | Try it |
+AI products for **Mercado Aurora**, a fictional online store with synthetic data. Every demo is live: open it, try your own questions and see how it behaves.
+
+| | Project | What it does for the business | Try it |
 |---|---|---|---|
-| [Policy assistant (RAG)](cases/ecommerce-ia-rag.md) | Customer-service chatbot that answers return, shipping and warranty questions **with exact citations**, and abstains instead of inventing | Gemini · Google Cloud | [Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) |
-| [Returns agents](cases/ecommerce-ia-agentes.md) | AI agents that process a return end-to-end, with **human approval** before any risky refund | Google ADK · Gemini | Coming soon |
-| [Document extractor](cases/ecommerce-ia-extractor-llm.md) | Fine-tuned small LLM that turns invoices and return requests into **validated JSON** | Fine-tuned open LLM (QLoRA) · Gemini | In progress |
-| [Fraud detection with MLOps](cases/ecommerce-ia-fraude-mlops.md) | Payment and return fraud scores that **explain each decision**; expected fraud cost cut from 1,725 to 676 EUR per 1,000 payments on test data | Gradient boosting · explainable AI | Coming soon |
+| 🟢 | [**Policy assistant (RAG)**](cases/ecommerce-ia-rag.md) | Answers return, shipping and warranty questions **with exact citations**, and says "I don't know" instead of inventing | [▶ Live demo](https://ecrag-frontend-4y6shrzafa-uc.a.run.app) |
+| 🟢 | [**Fraud & return-abuse detection**](cases/ecommerce-ia-fraude-mlops.md) | Scores every payment and return and **explains each decision**, so the team reviews less and loses less | [▶ Live demo](https://ecfraud-api-4y6shrzafa-uc.a.run.app) |
+| 🟢 | [**Returns agents**](cases/ecommerce-ia-agentes.md) | Resolves simple returns on their own and **asks a person before any risky refund** | [▶ Live demo](https://ecagents-frontend-4y6shrzafa-uc.a.run.app) |
+| 🟢 | [**In-store video analytics**](cases/ecommerce-ia-vision.md) | Counts visitors, measures time per zone and flags queues, then **answers questions about the day** in plain language | [▶ Live demo](https://ecvision-frontend-4y6shrzafa-uc.a.run.app) |
+| 🟡 | [**Document extractor**](cases/ecommerce-ia-extractor-llm.md) | A small model trained for the job turns emails and invoices into **clean, validated data** | Training now |
+| 🟡 | **Voice assistant** | Customers ask about orders and policies **by voice**, with the same cited answers | In construction |
 
-Each project page explains the problem, what the solution does and the measured results. Source code is private; I'm happy to show any of them working in a call.
+🛡️ **Coming next:** a second suite for **insurance** (policy assistant, claims fraud and claims agents) is being deployed.
 
 <p align="center"><sub><b>Fraud detection demo, measured on test data</b> (<a href="cases/ecommerce-ia-fraude-mlops.md">details</a>)</sub></p>
 
@@ -96,6 +104,8 @@ Each project page explains the problem, what the solution does and the measured 
     <td align="center" width="25%"><h2>-73%</h2><sub>expected cost per 1,000 returns</sub></td>
   </tr>
 </table>
+
+Demos sleep when nobody is using them, so the first request can take up to ~30 s. Each project page explains the problem, what the solution does and its measured results; I only publish numbers I have measured. Source code is private, and I'm happy to walk you through any of them in a call.
 
 ## 🧰 Toolbox
 
@@ -127,7 +137,7 @@ Each project page explains the problem, what the solution does and the measured 
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NarciH&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=NarciH&background=071A20&stroke=1E3E47&ring=E2553A&fire=E2553A&currStreakNum=E4F0F1&sideNums=E4F0F1&currStreakLabel=2FB3B8&sideLabels=8FB0B6&dates=8FB0B6&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub contribution streak" />
 </p>
 
 <picture>
@@ -140,7 +150,7 @@ Each project page explains the problem, what the solution does and the measured 
 I take on short freelance projects: chatbots and RAG over your documents, AI agents that automate workflows, and taking AI prototypes to production.
 
 <p>
-  <a href="https://linkedin.com/in/odavidhg"><img src="https://img.shields.io/badge/Let's_talk_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk on LinkedIn" /></a>
+  <a href="https://linkedin.com/in/odavidhg"><img src="https://img.shields.io/badge/Let's_talk_on-LinkedIn-0B4A57?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk on LinkedIn" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=110&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2FB3B8,45:0B4A57,100:071A20&height=110&section=footer" alt="" width="100%" />

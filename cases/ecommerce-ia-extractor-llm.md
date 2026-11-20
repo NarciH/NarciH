@@ -1,6 +1,6 @@
 # A small fine-tuned model that turns emails and invoices into clean data
 
-**Status: in progress.** Built and tested; the first training run and the comparison with Gemini come next.
+**Status: training now.** Built and tested; once the first training run finishes it goes live and is compared with Gemini.
 
 ## The problem
 

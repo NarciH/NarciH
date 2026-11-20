@@ -1,6 +1,6 @@
 # AI agents that handle a return end to end, with a human in the loop
 
-**Live demo: coming soon.**
+**[▶ Try the live demo](https://ecagents-frontend-4y6shrzafa-uc.a.run.app)** · the first request after a quiet period can take up to ~30 s while the service wakes up.
 
 ## The problem
 
